@@ -9,9 +9,6 @@
 
 Versi modern dari aplikasi toko buku online **The Book Atelier** yang dibangun menggunakan framework **Laravel 11**, **MySQL**, **PHP 8.3**, dan **Bootstrap 5.3**.
 
-> 📸 **Galeri Lengkap 14 Tangkapan Layar:**  
-> 👉 [**https://github.com/Veltros/BookStoreTo1/blob/main/screenshots/README.md**](https://github.com/Veltros/BookStoreTo1/blob/main/screenshots/README.md)
-
 ---
 
 ## 📸 Preview Tampilan Website
